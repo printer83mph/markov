@@ -29,7 +29,7 @@ def make_chain(word_list,word_count):
         output.append(random.choice(single(output[-1],word_list)))
     return output
 
-def make_chain(word_list,sentence_count):
+def make_chain(word_list,sentence_count,choice):
     output = []
     start_words = []
     for g in range(0,len(word_list)-1):
@@ -41,9 +41,14 @@ def make_chain(word_list,sentence_count):
             current_sentence.append(random.choice(single(current_sentence[-1],word_list)))
         else: current_sentence.append(random.choice(word_list))
         while(current_sentence[-1][-1] not in (".","!","?")):
-            if(double(current_sentence[-2],current_sentence[-1],word_list) != []):
-                current_sentence.append(random.choice(double(current_sentence[-2],current_sentence[-1],word_list)))
-            else: current_sentence.append(random.choice(word_list))
+            if(choice):
+                if(double(current_sentence[-2],current_sentence[-1],word_list) != []):
+                    current_sentence.append(random.choice(double(current_sentence[-2],current_sentence[-1],word_list)))
+                else: current_sentence.append(random.choice(word_list))
+            else:
+                if(single(current_sentence[-1],word_list) != []):
+                    current_sentence.append(random.choice(single(current_sentence[-1],word_list)))
+                else: current_sentence.append(random.choice(word_list))
         output += current_sentence + ["\n"]
     return output
 
@@ -57,8 +62,10 @@ def main():
     file = open("base_text.txt","r")
     test_list = file.read().split()
     convert(test_list)
+    choice = True if raw_input("Double? y/N > ") in ("y","Y") else False
     output = open("output.txt","w")
-    output.write(" ".join(make_chain(test_list,100)))
+    output.write(" ".join(make_chain(test_list,100,choice)))
+    print("Done!")
 
 if __name__ == '__main__':
     main()
