@@ -23,12 +23,6 @@ def double(word1,word2,word_list):
         else: return single(word2,word_list)
     else: return single(word2,word_list)
 
-def make_chain(word_list,word_count):
-    output = [random.choice(word_list)]
-    for i in range(0,word_count):
-        output.append(random.choice(single(output[-1],word_list)))
-    return output
-
 def make_chain(word_list,sentence_count,choice):
     output = []
     start_words = []
