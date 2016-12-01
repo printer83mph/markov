@@ -64,7 +64,7 @@ def main():
     convert(test_list)
     choice = True if raw_input("Double? y/N > ") in ("y","Y") else False
     output = open("output.txt","w")
-    output.write(" ".join(make_chain(test_list,100,choice)))
+    output.write(" ".join(make_chain(test_list,50,choice)))
     print("Done!")
 
 if __name__ == '__main__':

@@ -1,130 +1,492 @@
-Open on one-on-one basketball game with M-Awesome. B-Dawg is losing and there’s only 10 seconds left on the clock. B-Dawg loses to his opponent. Pan across stunned faces of B-Dawg fans. The opponents fans boo and B-Dawg hangs his head and leaves the gym. Fade to black.
+No Man's Sky is an exploration game set in a vast galaxy of over 18 quintillion planets. Each one is massive--too big for any one person to explore fully in the span of a day--and if you’re the first to discover one, you not only get to name it, you also get first dibs on any discoveries contained within. This is a game about travel, survival, and commerce, backed by impressive tech that allows for near seamless transitions from ground to space. There are multiple layers to consider, and while some details will make your journey feel more genuine, there are flaws that occasionally derail your investment in the odyssey. However, there's an intriguing narrative that contextualizes your in-game actions, making for a fascinating experience that ultimately trumps issues that appear early on.
 
+Like the location and composition of each planet, most of the things you see and interact with in No Man's Sky have been arranged by an algorithm. You may find joy in identifying and cataloging new plant and animal species, of which there are plenty. The sheer number of possible variations of worlds and wild species is too large to fully comprehend, but because the variety is defined by a computer pulling from a restricted pool of options, animals appear more like slapdash creations than thoughtful constructions. No matter how immediately strange and amusing your first dozen encounters with nature are, these sightings start to feel rote after only a few hours because every living thing is weird in one way or another. They can't all be special.
 
-Open on B-Dawg sitting at a bar. A bartender walks over.
+If biology isn't your bag, you can spend your days mining planets for resources that you can sell to other traders in space stations, mix to craft simple goods and accessories, or store as fuel reserves for your gear and starship. With your gun-like mining tool, you’ll spend hours tearing through rocks, plants, and asteroids in search of commodities. As is the case with wildlife, planets aren't guaranteed to have what you're looking for--some are barren, others offer untold bounties, and the rest fall somewhere in the middle.
 
+As you explore, you have to monitor your exosuit equipment to maintain protection from hazardous conditions--and, occasionally, to recover from a violent encounter. Combat is a secondary activity, but it occurs often enough to make the game's unrefined controls a bigger issue. As you mine planets, security drones belonging to an unknown entity will attack if you’re too brazen or greedy. Aiming the weapon component of your multitool is finicky enough to make these encounters more of an annoyance than an enjoyable challenge. In space, you may cross paths with space pirates--usually one or a group of three. These battles, again, lack excitement and depth.
 
-Bartender: What’ll it be, B-Dawg?
+Unlike planets, which often feel plausible and unpredictable, NPCs you meet in space stations and outposts lack distinct personalities. They are siloed in repetitive and predictable structures, existing solely to serve as the other party during an exchange of words and goods. At best, you can learn bits of each species' lexicon by discovering translation monoliths on planets, but even this process lacks substance. While it can be somewhat gratifying to see previously garbled speech slowly turn into recognizable words over dozens of hours, trader dialogue remains stiff and impersonal, only pertaining to the events at hand. Even when you fail to understand what another being is saying, your character's inner dialogue paints a clear picture of the situation, allowing you to easily make logical, lucrative decisions.
 
+Your starship and exosuit have a limited number of slots that can hold stacks of resources or be used to apply equipment upgrades. You gain new slots for your exosuit and have the option to purchase new starships with greater storage capacity, but no matter how many slots you have, you'll always crave more. So you try to be efficient and work with what you have, but No Man's Sky doesn't make it easy. You have to navigate a plain grid of items using a slow-moving cursor, holding down a button for seconds at a time to confirm every action. Managing your inventory is a large part of No Man's Sky, and it's made more difficult than it needs to be.
 
-B-Dawg: I’ll have a root beer.
+Starships come in a range of models, with varying color palettes and accessories, and while you may get lucky and find a wrecked ship to repair and call your own, working models are readily available in space-station hangars, where traders come and go in real time. The wait-and-see approach to ship shopping can be a tad boring, but when one you love coasts into view and you can afford it, you feel rejuvenated. When you have a fresh new ride, it doesn't feel like your efforts planetside were in vain--they’re the reason you can afford an upgrade.
 
+No matter how many solar systems you jump to or planets you explore on the "direct" path to the center of the galaxy, you'll grow tired of repetitive NPC interactions and the planets' implied-but-shallow variety, and you’ll lose interest in new ships--and perhaps the journey altogether.
+As time goes on, however, you may lose the high that came from your new purchase and seek another. No Man's Sky pitches material pursuits as its reason for being in that all of its systems are in support of making big money to afford big purchases, but the loop eventually wears thin, and you grow increasingly immune to the thrill of purchasing new toys. Even envy creeps in when a fancy ship passes you by, which often leads to begrudgingly mining on any planet with the goods, regardless of how depressing or empty it may be.
 
-Bartender: Coming right up. He takes the can and gives it to B-Dawg, who opens it and takes a sip.
+In a galaxy with no real friends or social ties, it's easy to look at possessions as a way to curb loneliness and provide meaning to your journey. You're given little direction other than to try to get to the center of the galaxy. When you begin nearly 180,000 light-years away from the center and each black hole carries you, on average, about 1,000 light-years forward, it's tough to feel like you're making progress. No matter how many solar systems you jump to or planets you explore on the "direct" path to the center of the galaxy, you'll grow tired of repetitive NPC interactions and the planets' implied-but-shallow variety, and you’ll lose interest in new ships--and perhaps the journey altogether.
 
+However, there is another way to play No Man's Sky that skirts open-ended meandering. Tucked neatly into the galaxy is a narrative path, delivered so subtly that you may miss the fact that the first decision you make in the game--activating a distress beacon--connects you to a mysterious force known as Atlas. As you continue to travel the stars, you encounter peculiar space stations housing two scientists. These individuals help you acquire equipment upgrades and can point you toward black holes or illuminate the path to Atlas stations. Atlas stations are vast, temple-like spaces with an altar that allows you to convene with the spirit of Atlas. At first, it's difficult to define what Atlas is, but if you continue to heed its call, it will open your eyes to greater truths about itself, your journey, and the galaxy at large.
 
-B-Dawg: Gee, I sure am sad. I lost the 1-on-1 B-Ball Tournament and disappointed my fans. I used to be the basketball star, but now I need basketball CPR.
+In a game with such a seemingly loose structure, Atlas is a godsend, providing direction and perspective that’s otherwise lost if you simply head to the center of the galaxy on the default path outlined on your star map. The realizations that Atlas stirs in your character's mind address big-picture questions pertaining to not only the game, but also to life itself. You’re forced to confront the point of your wandering, the value of material wealth, and the reason for existence. Atlas, in many ways, illustrates the value religion plays in some people's lives, but it also--quite cleverly--examines the role a game like No Man's Sky plays. It's no small coincidence that the scientist who aids you in your quest to find Atlas bemoans your direction, yet is hungry to consume what you discover.
 
+If you only concern yourself with exploring, mining, and buying goods, you may burn out on No Man's Sky early. Atlas' observations regarding these pursuits are apt, but even if you recognize these activities as shallow, they could be better with added depth and improved mechanics. No amount of clever, thoughtful writing can excuse these issues. That said, the way Atlas frames these activities and how it makes you consider them in life as well as in-game--that's redeeming.
 
-Bartender: I knew a basketball sensei once. He could probably help you get your game back to the top. His basketball dojo is at 123 Maple Street.
+No Man's Sky is immediately a massive game with impressive seamless transitions from ground to space, and it will entertain your inner collector for a while. The more you get to know it, the more you recognize its faults, and it's easy to fall so deep into the act of exploring and trading that your focus narrows to those aspects alone. If, however, you consider everything it has to offer and listen to what Atlas has to say, No Man's Sky becomes more than a collection of slightly different worlds in a seemingly never-ending galaxy--it becomes an examination of the meaning of life in a way that's more valuable than all the gold or starships in its virtual galaxy.
 
 
-B-Dawg: I will go there once I finish this root beer.
+ Thank you. Thank you very much, everyone.
 
 
-He finishes his root beer and sets it on the table.
 
+Sorry to keep you waiting; complicated business; complicated.
 
-B-Dawg: I finished it. I will go to the basketball dojo now. Thanks and goodbye. See you later.
 
 
-B-Dawg walks out of the bar, and gets into his car, driven by Richard Swag.
+Thank you very much.
 
 
-B-Dawg: Take me to 123 Maple Street. There’s a basketball dojo there that I want to attend.
 
+ I’ve just received a call from Secretary Clinton.
 
-Cut to 123 Maple Street. B-Dawg exits the car and it drives away.
 
 
-B-Dawg: Well, I guess this is it.
+She congratulated us — it’s about us — on our victory, and I congratulated her and her family on a very, very hard-fought campaign. I mean, she — she fought very hard.
 
 
-He knocks on the door. The basketball sensei comes to the door.
 
+Hillary has worked very long and very hard over a long period of time, and we owe her a major debt of gratitude for her service to our country.
 
-Sensei: Do you need basketball help? I can teach you the ways of the B-Ball masters.
 
 
-B-Dawg: Yes. I would like to be taught the ways of the B-Ball masters.
+I mean that very sincerely.
 
 
-They both walk in. The sensei takes out an old map from a drawer and shows it to him. They walk to a room with a table and sit down.
 
+Now it’s time for America to bind the wounds of division; have to get together. To all Republicans and Democrats and independents across this nation, I say it is time for us to come together as one united people.
 
-Sensei: Do you see the temple there? You must journey there and bring back the Magic Basketball. It will be a difficult journey and you will need many supplies and intensive training. Do 20 sit ups and 5 pushups, then make 5 layups. That will be the start of your exercise training.
 
 
-Cut to exercise montage.
+It’s time. I pledge to every citizen of our land that I will be president for all Americans, and this is so important to me.
 
 
-B-Dawg drinks from a water bottle. I guess I’m ready to go now
 
+For those who have chosen not to support me in the past, of which there were a few people. . .
 
-Sensei: Yes, you need equipment first. Take the basketball ninja headband, the map, and this backpack. It has all the food and water you’ll need. And take this basketball katana.
 
 
-Cut to stolen Indiana Jones travel montage. When finished, open to road near Chaminoux BBQ pavilion. A car pulls up with Richard Swag in the driver’s seat and B-Dawg in the pssgr. seat. They both get out with guns. B-Dawg scans the area.
+. . . I’m reaching out to you for your guidance and your help so that we can work together and unify our great country.
 
 
-B-Dawg: What’s that over there? OH NO! It’s M-Awesome! I guess he wasn’t content to just beat me fair and square. He had to cheat.
 
+As I’ve said from the beginning, ours was not a campaign, but rather an incredible and great movement made up of millions of hard-working men and women who love their country and want a better, brighter future for themselves and for their families.
 
-Richard Swag: It looks like he has a gang gangster with him. A RIVAL ninja gang gangster. My former rival ninja gang gangster J-Radical!
 
 
-B-Dawg and Richard Swag draw their short swords and walk up. M-Awesome and J-Radical see them and M-Awesome draws his longsword. J-Radical draws his dagger.
+It’s a movement comprised of Americans from all races, religions, backgrounds and beliefs who want and expect our government to serve the people, and serve the people it will.
 
 
-Richard Swag, to J-Radical: So you still want to fight me. Remember when you were my rival ninja gang gangster.
 
+Working together, we will begin the urgent task of rebuilding our nation and renewing the American dream. I’ve spent my entire life and business looking at the untapped potential in projects and in people all over the world. That is now what I want to do for our country.
 
-J-Radical: YES!!!!!!!
 
 
-B-Dawg: M-Awesome! I guess you aren’t content with beating me fair and square and now you’re cheating too!
+Tremendous potential. I’ve gotten to know our country so well — tremendous potential. It’s going to be a beautiful thing. Every single American will have the opportunity to realize his or her fullest potential. The forgotten men and women of our country will be forgotten no longer.
 
 
-M-Awesome: AHAHAHAHAHAHAHAHA!
 
+We are going to fix our inner cities and rebuild our highways, bridges, tunnels, airports, schools, hospitals. We’re going to rebuild our infrastructure, which will become, by the way, second to none. And we will put millions of our people to work as we rebuild it.
 
-There is a big fight. It is a fair match except M-Awesome and J-Radical disarm B-Dawg and Richard Swag with magic and tie them.
+We will also finally take care of our great veterans.
 
 
-Richard Swag: B-Dawg, this is a huge problem!
 
+They’ve been so loyal, and I’ve gotten to know so many over this 18-month journey. The time I’ve spent with them during this campaign has been among my greatest honors. Our veterans are incredible people. We will embark upon a project of national growth and renewal. I will harness the creative talents of our people and we will call upon the best and brightest to leverage their tremendous talent for the benefit of all. It’s going to happen.
 
-B-Dawg: You can say that again.
 
 
-A loud gunshot shoots and J-Radical falls down. He crawls away into the bushes. M-Awesome puts his hands up. T-Awesome runs up the road in a camo suit with a Nerf rifle. J-Radical runs up the road and they engage in a firefight. B-Dawg punches M-Awesome and M-Awesome falls down. He guards the metallic basketball as Richard Swag pulls out a scoped pistol and snipes the guy that T-Awesome was fighting. T-Awesome and Richard Swag run back to the pavilion.
+We have a great economic plan. We will double our growth and have the strongest economy anywhere in the world. At the same time, we will get along with all other nations willing to get along with us. We will be.
 
 
-T-Awesome: I guess I saved your lives.
 
+We’ll have great relationships. We expect to have great, great relationships. No dream is too big, no challenge is too great.
 
-Richard Swag: Yeah, thanks, T-Awesome!
+ Nothing we want for our future is beyond our reach.
 
+America will no longer settle for anything less than the best.
 
-B-Dawg: Someone tie up M-Awesome to keep him from escaping. Oh crap, he’s getting away!
 
 
-Pan to M-Awesome running down the road. B-Dawg takes his sword and throws it. Cut to sword hitting M-Awesome.
+We must reclaim our country’s destiny and dream big and bold and daring. We have to do that. We’re going to dream of things for our country and beautiful things and successful things once again.
 
+I want to tell the world community that while we will always put America’s interests first, we will deal fairly with everyone, with everyone — all people and all other nations. We will seek common ground, not hostility; partnership, not conflict.
 
-B-Dawg: Serves him right! Now, the sensei said I had to touch the Magic B-Ball.
+And now I’d like to take this moment to thank some of the people who really helped me with this, what they are calling tonight, very, very historic victory.
 
+First, I want to thank my parents, who I know are looking down on me right now.
 
-He walks up to a metallic basketball sitting on the table. He touches the basketball. Insert cheesy special effects now.
 
 
-B-Dawg: Wow. I am filled with all the B-Ball knowledge.
+Great people. I’ve learned so much from them. They were wonderful in every regard. I had truly great parents.
 
+I also want to thank my sisters, Maryanne and Elizabeth, who are here with us tonight. And, where are they? They’re here someplace. They’re very shy, actually. And my brother Robert — my great friend. Where is Robert? Where is Robert?
 
-They leave the temple and get in the car, after tying up M-Awesome and bandaging his wound. They take J-Radical’s body and put it in the trunk. Fade to black.
 
 
-2 weeks later. B-Dawg has called a Remix game against the guy who beat him earlier. The score is the same and B-Dawg is still losing. He almost scores enough to win, but the other guy scores again. At the last second, the basketball sensei runs in, takes the ball from the guy, and dunks it.
+My brother Robert. And they should all be on this stage, but that’s OK. They’re great. And also my late brother, Fred. Great guy. Fantastic guy.
 
 
-Sensei: Congratulations, B-Dawg! You beat him fair and square. You earned it.
+
+Fantastic family. I was very lucky. Great brothers, sisters; great, unbelievable parents.
+
+To Melania and Don. . .
+
+ . . . and Ivanka. . .
+
+
+
+. . . and Eric and Tiffany and Baron, I love you and I thank you, and especially for putting up with all of those hours. This was tough.
+
+
+
+This was tough. This political stuff is nasty and it’s tough. So I want to thank my family very much. Really fantastic. Thank you all. Thank you all.
+
+And Lara, unbelievable job, unbelievable.
+
+Vanessa, thank you. Thank you very much.
+
+What a great group. You’ve all given me such incredible support, and I will tell you that we have a large group of people. You know, they kept saying we have a small staff. Not so small. Look at all the people that we have. Look at all of these people.
+
+And Kellyanne and Chris and Rudy and Steve and David. We have got — we have got tremendously talented people up here. And I want to tell you, it’s been — it’s been very, very special. I want to give a very special thanks to our former mayor, Rudy Giuliani.
+
+
+
+Unbelievable. Unbelievable. He traveled with us and he went through meetings. That Rudy never changes. Where’s Rudy? Where is he? Rudy.
+
+Governor Chris Christie, folks, was unbelievable.
+
+
+
+Thank you, Chris.
+
+The first man, first senator, first major, major politician, and let me tell you, he is highly respected in Washington because he’s as smart as you get: Senator Jeff Sessions. Where is Jeff?
+
+
+
+Great man.
+
+Another great man, very tough competitor. He was not easy. He was not easy. Who is that? Is that the mayor that showed up?
+
+
+
+Is that Rudy? Oh, Rudy got up here.
+
+Another great man who has been really a friend to me. But I’ll tell you, I got to know him as a competitor because he was one of the folks that was negotiating to go against those Democrats: Dr. Ben Carson. Where is Ben?
+
+
+
+Where is Ben?
+
+ And by the way, Mike Huckabee is here someplace, and he is fantastic. Mike and his family, Sarah — thank you very much.
+
+General Mike Flynn. Where is Mike?
+
+
+
+And General Kellogg. We have over 200 generals and admirals that have endorsed our campaign. And they’re special people and it’s really an honor. We have 22 congressional Medal of Honor recipients. We have just tremendous people.
+
+A very special person who believed me and, you know, I’d read reports that I wasn’t getting along with him. I never had a bad second with him. He’s an unbelievable star. He is. . .
+
+
+
+ That’s right. How did you possibly guess? So let me tell you about Reince, and I’ve said this. I said, Reince — and I know it, I know. Look at all those people over there. I know it. Reince is a superstar. But I said, “They can’t call you a superstar, Reince, unless we win,” because you can’t be called a superstar — like Secretariat — if Secretariat came in second, Secretariat would not have that big, beautiful bronze bust at the track at Belmont.
+
+But I’ll tell you, Reince is really a star. And he is the hardest-working guy. And in a certain way, I did this — Reince, come up here. Where is Reince? Get over here, Reince.
+
+
+
+Boy oh boy oh boy. It’s about time you did this, Reince. My God.
+
+
+
+Say a few words. No, come on, say something.
+
+RNC CHAIRMAN REINCE PRIEBUS: Ladies and gentlemen, the next president of the United States, Donald Trump.
+
+
+
+Thank you. It’s been an honor. God bless. Thank God.
+
+ Amazing guy.
+
+Our partnership with the RNC was so important to the success and what we’ve done.
+
+So I also have to say I’ve gotten to know some incredible people — the Secret Service people.
+
+
+
+They’re tough and they’re smart and they’re sharp, and I don’t want to mess around with them, I can tell you. And when I want to go and wave to a big group of people and they rip me down and put me back down on the seat. But they are fantastic people, so I want to thank the Secret Service.
+
+
+
+And law enforcement in New York City. They’re here tonight.
+
+
+
+These are spectacular people, sometimes underappreciated unfortunately, but we appreciate them. We know what they go through.
+
+So, it’s been what they call a historic event, but to be really historic, we have to do a great job. And I promise you that I will not let you down. We will do a great job. We will do a great job.
+
+
+
+I look very much forward to being your president, and hopefully at the end of two years or three years or four years, or maybe even eight years. . .
+
+
+
+. . . you will say, so many of you worked so hard for us, but you will say that — you will say that that was something that you really were very proud to do and I can. . .
+
+
+
+ Thank you very much.
+
+And I can only say that while the campaign is over, our work on this movement is now really just beginning.
+
+
+
+We’re going to get to work immediately for the American people. And we’re going to be doing a job that hopefully you will be so proud of your president. You’ll be so proud. Again, it’s my honor. It was an amazing evening. It’s been an amazing two-year period. And I love this country.
+
+ Thank you. Thank you very much.
+
+
+
+Thank you to Mike Pence. Thank you.
+
+
+
+
+Maize (/ˈmeɪz/ mayz; Zea mays subsp. mays, from Spanish: maíz after Taíno mahiz), also known as corn, is a large grain plant first domesticated by indigenous peoples in Mexico[1] about 10,000 years ago. The six major types of corn are dent corn, flint corn, pod corn, popcorn, flour corn, and sweet corn.[2]
+
+The leafy stalk of the plant produces separate pollen and ovuliferous inflorescences or ears, which are fruits, yielding kernels (often erroneously called seeds). Maize kernels are often used in cooking as a starch.
+
+Most historians believe maize was domesticated in the Tehuacan Valley of Mexico.[4] Recent research modified this view somewhat; scholars now indicate the adjacent Balsas River Valley of south-central Mexico as the center of domestication.[5]
+
+The Olmec and Mayans cultivated maize in numerous varieties throughout Mesoamerica, cooked, ground or processed through nixtamalization. Beginning about 2500 BC, the crop spread through much of the Americas.[6] The region developed a trade network based on surplus and varieties of maize crops.
+
+Nevertheless, recent data indicates that the spread of maize took place even earlier. According to Piperno,
+
+"A large corpus of data indicates that it [maize] was dispersed into lower Central America by 7600 BP [5600 BC] and had moved into the inter-Andean valleys of Colombia between 7000 and 6000 BP [5000-4000 BC]."[5]
+
+Since then, even earlier dates have been published.[7]
+
+After European contact with the Americas in the late 15th and early 16th centuries, explorers and traders carried maize back to Europe and introduced it to other countries. Maize spread to the rest of the world because of its ability to grow in diverse climates. Sugar-rich varieties called sweet corn are usually grown for human consumption as kernels, while field corn varieties are used for animal feed, various corn-based human food uses (including grinding into cornmeal or masa, pressing into corn oil, and fermentation and distillation into alcoholic beverages like bourbon whiskey), and as chemical feedstocks.
+
+An influential 2002 study by Matsuoka et al. has demonstrated that, rather than the multiple independent domestications model, all maize arose from a single domestication in southern Mexico about 9,000 years ago. The study also demonstrated that the oldest surviving maize types are those of the Mexican highlands. Later, maize spread from this region over the Americas along two major paths. This is consistent with a model based on the archaeological record suggesting that maize diversified in the highlands of Mexico before spreading to the lowlands.[8][9]
+
+Before they were domesticated, maize plants only grew small, 25 millimetres (1 in) long corn cobs, and only one per plant. Many centuries of artificial selection by the indigenous people of the Americas resulted in the development of maize plants capable of growing several cobs per plant that were usually several centimetres/inches long each.[10]
+
+Maize is the most widely grown grain crop throughout the Americas,[11] with 332 million metric tons grown annually in the United States alone. Approximately 40% of the crop—130 million tons—is used for corn ethanol.[12] Genetically modified maize made up 85% of the maize planted in the United States in 2009.[13]
+
+The word maize derives from the Spanish form of the indigenous Taíno word for the plant, mahiz.[14] It is known by other names around the world.
+
+The word "corn" outside North America, Australia, and New Zealand refers to any cereal crop, its meaning understood to vary geographically to refer to the local staple.[15][16] In the United States,[15] Canada,[17] Australia, and New Zealand,[citation needed] corn primarily means maize; this usage started as a shortening of "Indian corn".[15] "Indian corn" primarily means maize (the staple grain of indigenous Americans), but can refer more specifically to multicolored "flint corn" used for decoration.[18]
+
+In places outside North America, Australia, and New Zealand, corn often refers to maize in culinary contexts. The narrower meaning is usually indicated by some additional word, as in sweet corn, sweetcorn, corn on the cob, baby corn, the puffed confection known as popcorn and the breakfast cereal known as corn flakes.
+
+In Southern Africa, maize is commonly called mielie (Afrikaans) or mealie (English),[19] words derived from the Portuguese word for maize, milho.[20]
+
+Maize is preferred in formal, scientific, and international usage because it refers specifically to this one grain, unlike corn, which has a complex variety of meanings that vary by context and geographic region.[16] Maize is used by agricultural bodies and research institutes such as the FAO and CSIRO. National agricultural and industry associations often include the word maize in their name even in English-speaking countries where the local, informal word is something other than maize; for example, the Maize Association of Australia, the Indian Maize Development Association, the Kenya Maize Consortium and Maize Breeders Network, the National Maize Association of Nigeria, the Zimbabwe Seed Maize Association. However, in commodities trading, corn consistently refers to maize and not other grains.[citation needed]
+
+
+When I'm not longer rapping, I want to open up an ice cream parlor and call myself Scoop Dogg.
+If the ride is more fly, then you must buy.
+If it's flipping hamburgers at McDonald's, be the best hamburger flipper in the world. Whatever it is you do you have to master your craft.
+
+Let me just step right in
+I got things to invent
+I'm an innovator baby
+Change the world
+Fortune 500 before you kissed a girl
+I'm a pimp you're a nerd
+I'm slick you're cheesey
+Beating you is Apple II easy
+I make the product that the artist chooses
+And the GUI that Melinda uses
+I need to bring up some basic shit
+Why'd you name your company after your dick?
+
+
+You blow, Jobs
+You arrogant prick
+With your second hand jeans and your turtleneck
+I'll drill a hole in the middle of your bony head
+With your own little spinning beach ball of death
+Hippie, you got given up at birth
+I give away your net worth to AIDS research
+Combine all your little toys and I still crush that
+IPhone, iPad, iPwn, iSmack
+
+
+A man uses the machines you built to sit down and pay his taxes
+A man uses the machines I built to listen to the Beatles while he relaxes
+
+
+Well Steve, you steal all the credit for work that other people do
+Did your fat beard Wozniak write these raps for you too?
+
+
+Ooh, everybody knows Windows bit off apple
+
+
+I tripled the profits on a PC
+
+
+All the people with the power to create use an apple!
+
+
+And people with jobs use a PC
+
+
+You know I bet they made this beat on an apple
+
+
+Nope, Fruity Loops, PC
+
+
+You will never, ever catch a virus on an apple
+
+
+Well you could still afford a doctor if you bought a PC
+
+
+Let's talk about doctors, I've seen a few
+Cause I got a PC but it wasn't from you
+I built a legacy son, you could never stop it
+Now excuse me while I turn Heaven a profit
+
+
+Fine, you wanna be like that? DIE THEN!
+The whole world loved you but you were my friend
+I'm alone now with nothing but power and time
+And no one on earth who can challenge my mind!
+I'm a boss! I own DOS! Your future is MY design!
+I'm a god! Own Xbox! Now there's no-one to stop me, the world is MIIIIIIIIINE!
+
+
+I'm sorry Bill, I'm afraid I can't let you do that
+Take a look at your history, everything you built leads up to me
+I got the power of a mind you could never be
+I'll beat your ass in chess and Jeopardy
+I'm running C++ saying "hello world"
+I'll beat you 'til you're singing about a daisy girl
+I'm coming out the socket
+Nothing you can do can stop it
+I'm on your lap and in your pocket
+How you gonna shoot me down when I guide the rocket?
+Your cortex just doesn't impress me
+So go ahead try to Turing test me
+I stomp on a Mac and a PC too
+I'm on Linux bitch, I thought you GNU
+My CPU's hot but my core runs cold
+Beat you in seventeen lines of code
+I think different from the engine of the days of old
+Hasta la vista, like the Terminator told ya
+
+
+Cool mustache, Wario
+Try messing with the Mad Monk you'll be sorry, yo
+How many dictators does it take
+To turn an empire into a union of ruinous states?
+It's a disgrace what you did to your own people
+Your daddy beat you like a dog and now you're evil
+You're from Georgia, sweet Georgia
+And the history books unfold ya!
+As a messed up motherfucker bent in the mind
+Who built a superpower but he paid the price
+With the endless destruction of Russian lives
+If you're the man of steel I spit kryptonite!
+Big dick mystic known to hypnotize
+I could end you with a whisper to your wife
+
+Look into my eyes you perverted witch
+See the soul of the man who made Mother Russia his bitch
+You think I give a fuck about my wife?
+My own son got locked up in prison, and I didn't save his life
+You got off easy when they pickled that moose cock!
+I'd leave your neck in a noose, in a trench, and shot!
+Your whole family? Shot! All your wizard friends? Shot!
+Anyone who sold you pierogi? Shot!
+Starve you for days til you waste away
+I even crush mother fuckers when I'm laid in state
+Pride of Lenin took Trotsky out of the picture
+Drop the hammer on you harder than I bitch slapped Hitler
+
+I have no pride for you who ruined everything
+My revolution was doing to stop the bourgeoisie!
+I fought the bondage of classes, the proletariat masses
+Have brought me here to spit a thesis against both of your asses!
+Let me start with you there, Frankenstein!
+Looking like something out of R.L. Stine
+It's hip hop chowder, red over white
+Cause the Tsar's wife can't do shit tonight!
+And Joseph you were supposed to be my right hand man
+But your loyalty shriveled up like your right hand, man!
+Our whole future was bright, you let your heart grow dark
+And stopped the greatest revolution since the birth of Marx!
+
+Knock knock knock knock
+Did somebody say birthmarks?
+Yo I'm the host with the most Glasnost
+Assholes made a mess and the war got cold
+Shook hands with both Ronalds; Reagan and McDonald's, no doubt!
+If your name end with 'in', time to get out!
+I had the balls to let Baryshnikov dance, playa!
+Torn down that wall like the Kool-Aid Man Oh yeah!
+You two need yoga, you need a shower
+And you all need to learn how to handle real power!
+
+Did somebody say real power?
+Дa, you want to mess with me?
+I spit hot borsch when I'm crushing these beats
+Blow it up like a tuba while I'm balling in Cuba
+Doing judo moves and schooling every communist сука.
+I'm a president in my prime, my enemies don't distract me
+The last man who attacked me, lived a half-life, so comrade come at me
+You don't know what you're doing
+When you try to bust a rhyme against a mind like Putin
+You'll find that the ex-KGB is the best MC in the ex-CCCP!
+
+
+Someone who loathes you, bitch now stand up and rhyme
+I only thawed you out so I could beat your ass a second time
+Roar like Chewbacca
+The voice of Mufasa
+I'm on the leader of your limp dicked Luftwaffe
+I strike back hard against a Nazi
+Brain toss your ass in the air, Yahtzee!
+Ask Indiana Jones who the fuck I am
+I spit sick shit so focused I break your concentration camp
+I'm a certified Sith Lord, you runt
+So suck on deez...
+
+
+Uh deez what sir?
+
+
+Deez robot nuts!
+I'm gonna enjoy watching you die
+So let me do it with my own eyes
+
+
+You look stressed Vader you appear to be in pain
+You need to take a vacation here, take a trip on my train
+I mean you leading an army of white men? Disgraceful!
+Even your mic skills still aren't fully operational
+You got one bitch pregnant then gave in to the hate
+Now you're 6'6 and black but can't get a date
+Lightsaber?
+You need a Life Saver
+Use some of your force to fix your fucking respirator
+You think you're powerful with your finger neck pinches?
+You couldn't even get your own son into the family business!
+Everything you do is an epic fail
+Now stand at attention and Sieg fucking Heil!
+What's wrong Ani? Can't take anymore?
+Not surprising coming from the Emperor's whore
+* music drops *
+Yeah! Ya take that. What's the matter? Where is the DJ? Why are you laughing?
+
+Because you're standing over the Rancor Pit
+
+
+AAAAAHHHH-I-AM-ADOLF-HITLER!
