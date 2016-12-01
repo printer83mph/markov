@@ -33,7 +33,7 @@ def make_chain(word_list,sentence_count,choice):
     output = []
     start_words = []
     for g in range(0,len(word_list)-1):
-        if(word_list[g] == "-:-" and word_list[g+1][0].isupper()):
+        if(word_list[g] == "-:-"):
             start_words.append(word_list[g+1])
     for i in range(0,sentence_count):
         current_sentence = [random.choice(start_words)]
