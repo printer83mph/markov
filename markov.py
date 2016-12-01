@@ -31,18 +31,12 @@ def make_chain(word_list,sentence_count,choice):
             start_words.append(word_list[g+1])
     for i in range(0,sentence_count):
         current_sentence = [random.choice(start_words)]
-        if(single(current_sentence[-1],word_list) != []):
-            current_sentence.append(random.choice(single(current_sentence[-1],word_list)))
-        else: current_sentence.append(random.choice(word_list))
+        current_sentence.append(random.choice(single(current_sentence[-1],word_list)))
         while(current_sentence[-1][-1] not in (".","!","?")):
             if(choice):
-                if(double(current_sentence[-2],current_sentence[-1],word_list) != []):
-                    current_sentence.append(random.choice(double(current_sentence[-2],current_sentence[-1],word_list)))
-                else: current_sentence.append(random.choice(word_list))
+                current_sentence.append(random.choice(double(current_sentence[-2],current_sentence[-1],word_list)))
             else:
-                if(single(current_sentence[-1],word_list) != []):
-                    current_sentence.append(random.choice(single(current_sentence[-1],word_list)))
-                else: current_sentence.append(random.choice(word_list))
+                current_sentence.append(random.choice(single(current_sentence[-1],word_list)))
         output += current_sentence + ["\n"]
     return output
 
