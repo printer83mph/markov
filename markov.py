@@ -14,7 +14,7 @@ def single(word,word_list):
 def double(word1,word2,word_list):
     if(len(word_list) > 1):
         output = []
-        for i in range(0,len(word_list)-1):
+        for i in range(0,len(word_list)-2):
             if(word_list[i] == word1 and word_list[i+1] == word2):
                 if(word_list[i+2] != "-:-"):
                     output.append(word_list[i+2])
@@ -43,7 +43,7 @@ def make_chain(word_list,sentence_count,choice):
 def convert(words):
     output = []
     for i in range(0,len(words)-1):
-        if(words[i][-1] == "." or words[i][-1] == "!" or words[i][-1] == "?"):
+        if(words[i][-1] in (".","!","?")):
             words.insert(i+1,"-:-")
 
 def main():
