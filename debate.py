@@ -51,7 +51,6 @@ def main():
     for w in range(0,len(new_debate)):
         for p in people:
             if new_debate[w] == people[p]:
-                print("did it")
                 new_debate[w] = "\n \n" + new_debate[w]
     output = open("debate_output.txt","w")
     output.write(" ".join(new_debate))
